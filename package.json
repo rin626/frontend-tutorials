@@ -1,0 +1,13 @@
+{
+  "name": "your-project-name",
+  "version": "1.0.0",
+  "description": "A brief description of your project",
+  "main": "index.js",
+  "scripts": {
+    "start": "react-scripts start",
+    "server": "json-server --watch db.json --port 3001"
+  },
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {}
+}
